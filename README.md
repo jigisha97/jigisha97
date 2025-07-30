@@ -1,11 +1,9 @@
-### Hi there 👋
+### What do I do? I make machines smart enough to guess your next move.
 
 <!--
 # 👋 Hi there, I'm Jigisha Barbhaya!
 
 **`AI/ML Engineer | GenAI Enthusiast | Data Scientist`**
-
-What do I do? I make machines smart enough to guess your next move.
 
 I'm a passionate AI/ML professional with 5+ years of experience building real-world AI, data science, and Generative AI solutions. I enjoy designing intelligent systems that solve impactful problems and bring innovation to life — from LLMs and multi-agent orchestration to end-to-end machine learning pipelines.
 
